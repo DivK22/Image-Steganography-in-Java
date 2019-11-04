@@ -1,6 +1,6 @@
 # Image Steganography
 
-# Astract
+## Abstract
 
 Steganography is the craft of concealing the way that correspondence is occurring, by concealing
 data in other data. A wide range of transporter document arrangements can be utilized, however
