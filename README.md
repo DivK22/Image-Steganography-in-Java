@@ -10,8 +10,9 @@ some are more unpredictable than others and every one of them have separate soli
 focuses. Diverse applications have distinctive necessities of the steganography method utilized.
 For instance, a few applications may require outright intangibility of the mystery data, while
 others require a bigger mystery message to be covered up.
+
 In the following project we are concentrating on least significant bit of the image and modi-
 fying it in spatial domain. We have broken down and concluded about the variations of this
-algorithm as far as eciency and hiding capacity of an image. Viability of the algorithm is
+algorithm as far as efficiency and hiding capacity of an image. Viability of the algorithm is
 estimated by client assessments deciding so, all things considered change to the pictures wound
 up evident.
